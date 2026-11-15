@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://observaloka.com/assets/favicon.png" alt="Observaloka" width="80" />
+  <img src="./Observaloka_Logo_1MB.jpg" alt="Observaloka" width="80" />
 </p>
 
 <h1 align="center">Observaloka</h1>
