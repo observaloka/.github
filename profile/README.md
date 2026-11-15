@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Observaloka</h1>
-<p align="center"><strong>Spend Less time on Observability. More time for what matters.</strong></p>
+<p align="center"><strong>Spend Less time on Observability >_<. More time on what matters ^_^.</strong></p>
 <p align="center">
   <a href="https://observaloka.com">Website</a> ·
   <a href="https://observaloka.com/research">Research</a> ·
